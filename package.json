@@ -1,0 +1,20 @@
+{
+  "name": "saltshani1db",
+  "version": "1.0.0",
+  "description": "db backups",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "db"
+  ],
+  "author": "saltshani1",
+  "license": "ISC",
+  "dependencies": {
+    "@citizenfx/server": "^2.0.5278-1",
+    "discord.js": "^13.6.0",
+    "mysqldump": "^3.2.0",
+    "uuid": "^8.3.2"
+  }
+}
